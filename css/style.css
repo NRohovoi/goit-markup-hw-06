@@ -951,6 +951,7 @@ border-radius: 4px;
 .portfolio-link:focus .product-thumb-paragraph {
   opacity: 1;
   transform: translateY(0%);
+  
 }
 
 
